@@ -37,19 +37,26 @@ $$
 \zeta = \frac{\tfrac{a_1}{a_2}}{2 \sqrt{\tfrac{a_0}{a_2}}}
 $$
 
-- Example results:  
-  - Natural frequency:  
-  $$
-  \omega_n = 7.19 \ \text{rad/s}
-  $$
-  - Damping ratio:  
-  $$
-  \zeta = 1.22 \quad \Rightarrow \quad \text{Overdamped system}
-  $$
-  - Poles:  
-  $$
-  s_1 = -13.77, \quad s_2 = -3.76
-  $$
+### Example Results
+
+- Natural frequency:  
+
+$$
+\omega_n = 7.19 \ \text{rad/s}
+$$  
+
+- Damping ratio:  
+
+$$
+\zeta = 1.22 \quad \Rightarrow \quad \text{Overdamped system}
+$$  
+
+- Poles:  
+
+$$
+s_1 = -13.77, \quad s_2 = -3.76
+$$
+
 
 ---
 
